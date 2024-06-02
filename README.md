@@ -76,6 +76,7 @@ kill [옵션] [pid]
 - ps명령어를 통해 프로세스 작업을 종료시킬 수 있다.
 - **jobs -l** 을 통해 백그라운드에 있는 프로세스의 **pid를 본후 kill** 할 수 있다.
 - 아래 그림은 vi를 cirl+z로 일시 중지 후 kill 한 모습
+  
 ![kill](https://github.com/baejongto/20202525BaeJongOk/assets/170800055/882f694e-6641-4bab-b7f9-6fe7e7c247fd)
 #### kill 명령어 주요 옵션
 | 옵션 | 설명 |
